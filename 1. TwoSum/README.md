@@ -40,3 +40,4 @@ This approach is the same as the hash table approach, but with some minor optimi
 * Time complexity: O(n)
 * Space complexity: O(n)
 | C++ | 0 ms (100.0%) | 14.9 MB (18.1%) | - | 2026-05-12 |
+| C++ | 3 ms (66.4%) | 14.8 MB (54.2%) | - | 2026-05-12 |
